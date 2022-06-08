@@ -84,7 +84,7 @@ const config = {
             items: [
               {
                 label: 'Nigel Ritfeld',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://nigelritfeld.nl/',
               },
               {
                 label: 'Dani Verschoor',
