@@ -9,7 +9,7 @@ const config = {
   title: 'Verantwoordingsdocument',
   tagline: 'Dinosaurs are cool',
   url: 'https://unlimited-hr.github.io/',
-  baseUrl: '/',
+  baseUrl: '/verantwoordingsdocument/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -74,8 +74,8 @@ const config = {
             title: 'Verantwoordingsdocument',
             items: [
               {
-                label: 'Intro',
-                to: '/verantwoordingsdocument/intro',
+                label: 'Introductie',
+                to: '/',
               },
             ],
           },
