@@ -24,7 +24,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'nl',
-    locales: ['nl'],
+    locales: ['nl', 'en', 'de'],
   },
 
   presets: [
@@ -39,7 +39,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/unlimited-hr/verantwoordingsdocument/tree/main/docs',
+            'https://github.com/unlimited-hr/verantwoordingsdocument/tree/main/',
         },
         blog: false,
         theme: {

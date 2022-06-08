@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Unlimited HR",
+    "description": "The title in the navbar"
+  },
+  "item.label.Verantwoordingsdocument": {
+    "message": "Verantwoordingsdocument",
+    "description": "Navbar item with label Verantwoordingsdocument"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
