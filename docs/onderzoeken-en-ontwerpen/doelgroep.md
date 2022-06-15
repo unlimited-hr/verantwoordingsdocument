@@ -1,5 +1,6 @@
 ---
 title: Doelgroep
+sidebar_position: 2
 ---
 
 ## Situatie
@@ -8,7 +9,7 @@ Uit de interviews van vorige periode bleek dat onze beoogde doelgroep niet overe
 Waardoor wij deze moesten aanscherpen. 
 
 ## Taak
-Het doelgroep beter in kaart brengen.
+De doelgroep beter in kaart brengen.
 
 ## Actie
 Het team heeft meer deskresearch gedaan, aan verschillende mensen in de omgeving van 
@@ -34,15 +35,15 @@ Voor de ontwerpkeuzes binnen de app werd een moodboard opgesteld om duidelijk aa
 de Claire app zou moeten hebben gebaseerd op het thema duurzaamheid.
 
 ## Resultaat
-Uit de nieuwe inzichten kwam de team tot de conclusie dat onze doelgroep zijn mensen die bezorgd zijn 
+Uit de nieuwe inzichten kwam het team tot de conclusie dat onze doelgroep mensen zijn die bezorgd zijn 
 over hun luchtkwaliteit binnenshuis. Door het maken van een conceptbeschrijving werd hierin duidelijker aangegeven 
 wat wij met ons project willen bereiken en het doel van ons project. 
-Ook hierin staat hoe ons project gekoppeld is aan de Sustainable Development Goals.
+Ook staat hierin hoe ons project gekoppeld is aan de Sustainable Development Goals.
 
 ## Reflectie
 In vergelijking tot vorige periode werd de verzamelde informatie en inzichten niet op een duidelijke manier verwerkt 
 waardoor het vaak verwarring bracht in het team. Ook was er binnen ons team geen “ontwerpende technoloog” en 
-moesten wij telkens deze taken verdelen. Toch zijn er teamleden die deze taken vaker gingen oppakken wanneer de tijd het toe stond. 
+moesten wij telkens deze taken verdelen. Toch zijn er teamleden die deze taken vaker gingen oppakken wanneer de tijd er toe stond. 
 Bij eerdere feedback was het niet duidelijk genoeg hoe ons project een oplossing was 
 voor het vraagstuk “Rotterdam een duurzame stad” maar na ons concept beter te formuleren en aan de hand van ons onderzoek 
 kunnen wij aantonen hoe belangrijk dit is binnen Rotterdam. Ondanks de situatie, 
