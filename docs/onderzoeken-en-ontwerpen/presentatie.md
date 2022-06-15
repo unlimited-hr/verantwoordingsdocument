@@ -3,32 +3,32 @@ title: Eindmarkt
 ---
 
 ## Situatie
-Op het einde van TLE 4 vindt een eindmarkt plaats waar een DEMO van het MVP wordt gepresenteerd. Voor het afronden van het project, 
-is het belangrijk om aan de "marketing" van het product te werken. 
+Aan het einde van TLE 4 vindt een eindmarkt plaats waar een demo van het MVP wordt gepresenteerd. Voor het afronden van het project, is het belangrijk om aan de "marketing" van het product te werken. 
 
 ## Taak
 Prototype presenteren (in welke vorm?)
 
 ## Actie
-Voor de eindmarkt werd binnen het team besproken om ons project middels een one-pager te presenteren.
+Voor de eindmarkt is er binnen het team besproken om ons project middels een one-pager te presenteren.
 Om de informatie toegankelijk te maken over “Wie zijn wij?”, “Wat doet ons product?”, “Wat willen wij hiermee bereiken?”, 
 vonden wij het een goed idee om het op deze manier duidelijk te laten zien.
 
-Er werd naar verschillende opties gekeken hoe de one pager gemaakt zou worden, door bijvoorbeeld:
-* One pager zelf te maken (in HTML/CSS/JS)
+Er zijn verschillende methoden om de one-pager te maken overwogen:
+* Handmatig te programmeren (in HTML/CSS/JS)
 * Een Powerpoint
-* Bestaande templates van One pager gebruiken, etc.
+* Bestaande templates van one-pager gebruiken
 
-Vanwege aan tijdsgebrek, werd er voor een template <i>NICE-software</i> gekozen om de one-pager op tijd af te kunnen krijgen.
+Om de one-pager op tijd af te kunnen krijgen is er voor een template van <i>NICE-software</i> gekozen.
 
 ![nice-software](./img/nice-template.png)
 
-Verder werd een video gemaakt van de one pager om deze tijdens de eindmarkt te loopen en de aandacht van het publiek te krijgen.
+Er is een video gemaakt van de one-pager om deze tijdens de eindmarkt weer te geven
+om de aandacht van het publiek te trekken. Deze video wordt geloopt.
 
 
 ## Resultaat
 
-Het resultaat was een functioneel product die een toegevoegde waarde bijdraagt aan de maatsschappij.
+Het resultaat is functioneel product dat bijdraagt aan de maatsschappij.
 
 Wie zijn wij?
 ![group-photo](./img/groepsfoto.jpeg)
@@ -36,10 +36,10 @@ Wie zijn wij?
 Onze promotiematerialen
 ![stand](./img/stand.jpeg)
 
-Claire product
+Claire IoT apparaat
 ![claire](./img/casing.jpeg)
 
-Uitleg van hoe de backend is gevormd met in het midden een QR code om toegang te hebben tot onze documentatie.
+Uitleg van hoe de backend is gevormd met in het midden een QR code die linkt naar onze documentatie.
 ![flow-backend-proces](./img/flow.jpeg)
 
 Het hele plaatje (aan het begin)
@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=ay80LNQgW2c
 
 ## Reflectie
 
-Tijdens de eindmarkt konden wij onze “nieuwe” interface laten zien en de ontvangen feedbacks waren positief.
+Tijdens de eindmarkt konden hebben ons “nieuwe” interface laten zien, hier hebben we positieve feedback op gekregen.
 Hierdoor kon het team valideren of de nieuwe iteratie (interface) wat meer duidelijkheid gaf aan de gebruikers.
 Dit was geen officiële test maar daardoor konden wij observeren of het betere acceptatie had door het publiek.
 Als team zijn wij trots op het eindresultaat, wel zijn wij niet tevreden over hoe het proces liep. 

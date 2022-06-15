@@ -29,4 +29,3 @@ Het kiezen van een transparant algoritme was een goede eerste stap. We hadden
 echter eerder in het project aan een implementatie ervan moeten denken. Dan
 hadden we misschien in de app daadwerkelijk de AI kunnen toelichten of in ieder
 geval een ontwerp hiervoor kunnen hebben.
-Explainable AI STAR voor verantwoordingsdocument. Ik heb er niet echt een model of ontwerp voor, maar daar reflecteer ik ook op in de tekst.
