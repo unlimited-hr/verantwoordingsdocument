@@ -75,11 +75,11 @@ const config = {
         },
         items: [
           {to: '/', label: 'Verantwoordingsdocument', position: 'left'},
-          {
-            href: 'https://github.com/unlimited-hr/verantwoordingsdocument',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/unlimited-hr/verantwoordingsdocument',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
