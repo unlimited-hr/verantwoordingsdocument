@@ -1,12 +1,13 @@
 ---
 title: Eindmarkt
+sidebar_position: 5
 ---
 
 ## Situatie
 Aan het einde van TLE 4 vindt een eindmarkt plaats waar een demo van het MVP wordt gepresenteerd. Voor het afronden van het project, is het belangrijk om aan de "marketing" van het product te werken. 
 
 ## Taak
-Prototype presenteren (in welke vorm?)
+Uitzoeken op welke manier het beste het prototype gepresenteerd kan worden. 
 
 ## Actie
 Voor de eindmarkt is er binnen het team besproken om ons project middels een one-pager te presenteren.
@@ -56,8 +57,8 @@ https://www.youtube.com/watch?v=ay80LNQgW2c
 Tijdens de eindmarkt konden hebben ons “nieuwe” interface laten zien, hier hebben we positieve feedback op gekregen.
 Hierdoor kon het team valideren of de nieuwe iteratie (interface) wat meer duidelijkheid gaf aan de gebruikers.
 Dit was geen officiële test maar daardoor konden wij observeren of het betere acceptatie had door het publiek.
-Als team zijn wij trots op het eindresultaat, wel zijn wij niet tevreden over hoe het proces liep. 
-Dit was inmiddels omdat wij aan het begin veel tijd hebben verloren en konden wij die tijd beter kunnen benutten. 
-Wel zijn wij bewust dat dit deels van het proces maakt en dat wij hiervan hebben geleerd. 
+Als team zijn wij trots op het eindresultaat, echter zijn wij niet tevreden over hoe het proces liep. 
+Dit was omdat wij aan het begin veel tijd hebben verloren, en wij konden die tijd beter benutten. 
+Wel zijn wij bewust dat dit deel uit maakt van het proces en dat wij hiervan hebben geleerd. 
 Voor de toekomst is het dus van belang om meer concrete keuzes te maken en meer betrokken worden bij de doelgroep. 
 Uiteindelijk maken wij het product voor de doelgroep. 

@@ -1,5 +1,6 @@
 ---
 title: Explainable AI
+sidebar_position: 3
 ---
 
 ## Situatie

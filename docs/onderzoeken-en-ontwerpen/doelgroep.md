@@ -1,5 +1,6 @@
 ---
 title: Doelgroep
+sidebar_position: 2
 ---
 
 ## Situatie

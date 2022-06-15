@@ -1,5 +1,6 @@
 ---
 title: Ontwerp Iteratie
+sidebar_position: 4
 ---
 
 ## Situatie
