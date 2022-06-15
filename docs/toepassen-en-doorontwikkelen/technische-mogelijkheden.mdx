@@ -92,7 +92,7 @@ hebben gekozen JSON Web Tokens te gebruiken.
 ![Authentication Diagram](images/Auth_Diagram.jpg)
 
 ### Installatieprocess
-[Google Setup](https://www.youtube.com/watch?v=oFPMZLeIo5M&ab_channel=ASecureLife)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oFPMZLeIo5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 Op basis van het korte onderzoek gingen we zelf kijken wat we konden doen met de NodeMCU en het gekozen mobile app framework. Op de NodeMCU is het mogelijk om een library te installeren waarbij er een access point wordt opgezet wanneer de NodeMCU geen internet heeft. Op de access point is er een webpagina waarbij je jouw Wi-Fi® gegevens kan invullen, zodat de NodeMCU internet heeft. Waar we achter gekomen waren is dat je dit ook zonder de webpagina kan doen. We kunnen namelijk ook de GET url gebruiken: `192.168.4.1/&ssid=MIJNNETWERK&PASSWORD=123456789`. Op deze manier kunnen we via de mobile app de GET request doen, zodat we niet opeens in een andere interface de gegevens in moeten vullen. Hierbij blijft de user experience strak.
 
