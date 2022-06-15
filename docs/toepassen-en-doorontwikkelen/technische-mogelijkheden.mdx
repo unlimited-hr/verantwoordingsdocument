@@ -30,7 +30,7 @@ wat voor algoritme we gaan gebruiken om de gebruiker tips te geven.
 Claire moet gegevens die op het meetapparaat worden gemeten kunnen weergeven op
 een mobiele app. Ook moet de mobiele app advies kunnen geven over hoe je bij jou
 de luchtkwaliteit kan verbeteren.
-De mobile app werkt samen met het IoT device. Het IoT device heeft internet nodig om lucht gegevens te sturen naar de back-end. Hiervoor moet dus het IoT device ingesteld worden. Er is daarvoor een persoonlijk Wi-Fi® netwerk voor nodig. Dit dient ingesteld te worden door de gebruiker, maar moet wel een goeie ervaring zijn. Hier hadden we onderzoek naar gedaan. 
+De mobile app werkt samen met het IoT device. Het IoT device heeft internet nodig om lucht gegevens te sturen naar de back-end. Hiervoor moet dus het IoT device ingesteld worden. Er is daarvoor een persoonlijk Wi-Fi® netwerk voor nodig. Dit dient ingesteld te worden door de gebruiker, maar moet wel een goeie ervaring zijn. Hier hadden we onderzoek naar gedaan.
 
 
 ## Taak
@@ -39,18 +39,18 @@ allereerst vaststellen welke technologieën we gaan gebruiken. We moeten weten
 hoe/waar we de data op gaan slaan, hoe we dit naar de app gaan sturen en hoe we
 hiermee tips aan de gebruiker kunnen geven. Ook moeten we vaststellen hoe we
 het account van de gebruiker gaan beveiligen.
-Het moeilijkste gedeelte van de mobiele app was om de Wi-Fi® in te stellen op het IoT device. Dit wilden we doen via de mobile app, zodat de user experience als fijn wordt ervaren. Hiervoor hebben we kort onderzoek gedaan bij naar concurenten. Één van de concurenten was Google. Hierbij keken we hoe Google hun devices instelde. 
+Het moeilijkste gedeelte van de mobiele app was om de Wi-Fi® in te stellen op het IoT device. Dit wilden we doen via de mobile app, zodat de user experience als fijn wordt ervaren. Hiervoor hebben we kort onderzoek gedaan bij naar concurenten. Één van de concurenten was Google. Hierbij keken we hoe Google hun devices instelde.
 
 
 ## Actie
 ### Communicatie Sensor
-We zijn gestart met de technologieën die de sensor gaat gebruiken voor 
+We zijn gestart met de technologieën die de sensor gaat gebruiken voor
 communicatie. Om ervoor te zorgen dat je de app buitenshuis kan gebruiken is het
 nodig voor het meetapparaat om via de lokale Wi-Fi® data naar een webserver te
 sturen. Hiervoor hebben we naar een manier gezocht voor de gebruiker om de naam
 en het wachtwoord van een Wi-Fi® netwerk naar het apparaat te sturen.
 
-Zie afbeelding hier onder of open in [nieuw tabblad](images/Setup_Process.jpeg)
+Zie afbeelding hier onder of open in [nieuw tabblad](images/Setup_Process.jpg)
 ![Setup Process](images/Setup_Process.jpg)
 
 ### Database + API
@@ -93,7 +93,7 @@ hebben gekozen JSON Web Tokens te gebruiken.
 ![Authentication Diagram](images/Auth_Diagram.jpg)
 
 ### Installatieprocess
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oFPMZLeIo5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oFPMZLeIo5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Op basis van het korte onderzoek gingen we zelf kijken wat we konden doen met de NodeMCU en het gekozen mobile app framework. Op de NodeMCU is het mogelijk om een library te installeren waarbij er een access point wordt opgezet wanneer de NodeMCU geen internet heeft. Op de access point is er een webpagina waarbij je jouw Wi-Fi® gegevens kan invullen, zodat de NodeMCU internet heeft. Waar we achter gekomen waren is dat je dit ook zonder de webpagina kan doen. We kunnen namelijk ook de GET url gebruiken: `192.168.4.1/&ssid=MIJNNETWERK&PASSWORD=123456789`. Op deze manier kunnen we via de mobile app de GET request doen, zodat we niet opeens in een andere interface de gegevens in moeten vullen. Hierbij blijft de user experience strak.
 
@@ -123,7 +123,7 @@ handmatig alles te installeren.
 De Decision Tree is een goed algoritme voor de AI gebleken. Het is erg breed en
 het technische aspect was niet al te moeilijk om op te zetten. We hebben wel
 gekozen voor de Decision Tree die op school behandeld is, niet die van
-Tensorflow zoals in het ontwerp staat. Die uit de programmeerlessen was toch 
+Tensorflow zoals in het ontwerp staat. Die uit de programmeerlessen was toch
 makkelijker te gebruiken. Deze zou wat minder efficiënt zijn dan die van
 Tensorflow maar dat is geen probleem gebleken.
 

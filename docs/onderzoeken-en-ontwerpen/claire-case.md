@@ -1,6 +1,6 @@
 ---
 title: Claire Case Design
-sidebar_position: 1.5
+sidebar_position: 3
 ---
 
 ## Situatie
