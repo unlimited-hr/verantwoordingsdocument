@@ -3,7 +3,7 @@ npx mr-pdf \
 --initialDocURLs="https://unlimited-hr.github.io/verantwoordingsdocument/" \
 --contentSelector="article" \
 --paginationSelector=".pagination-nav__link--next" \
---excludeSelectors=".margin-vert--xl a,.card,theme-edit-this-page" \
---coverImage="https://docusaurus.io/img/docusaurus.png" \
+--excludeSelectors=".margin-vert--xl a,.card,.theme-edit-this-page" \
 --coverTitle="CLAIRE Verantwoordingsdocument" \
---outputPDFFilename"Verantwoordingsdocument"
+--coverSub="https://unlimited-hr.github.io/verantwoordingsdocument/" \
+--outputPDFFilename="Verantwoordingsdocument.pdf"
