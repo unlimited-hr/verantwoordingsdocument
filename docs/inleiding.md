@@ -4,7 +4,7 @@ slug: /
 title: Inleiding
 ---
 
-# Introductie
+# Inleiding
 
 Aan het begin van TLE 3 kregen we te horen dat we de duurzaamheid in Rotterdam moesten verbeteren. 
 Dat was alles wat we te horen kregen, geen opdrachtgever, geen doelgroep, geen richting waar we naartoe moesten, maar alleen duurzaamheid. 
